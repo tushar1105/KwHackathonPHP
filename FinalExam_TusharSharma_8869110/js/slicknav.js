@@ -1,0 +1,2 @@
+// slicknav menu.
+$("#menu").slicknav();
